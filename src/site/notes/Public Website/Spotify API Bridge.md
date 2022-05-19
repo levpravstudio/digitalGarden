@@ -5,7 +5,7 @@
 Parses meta-data from Spotify API as well as provides access to some features unavailable in Spotify's Public API, such as [[Public Website/Spotify API Bridge#User's Playlist Creation Modification|User's Playlist Creation/Modification]] and [[Public Website/Spotify API Bridge#Playcount Statistics|Playcount Statistics]]. 
 Also includes a bottle-neck rate-limit control, useful for 
 massive [[Public Website/Spotify API Bridge#Spotify Content Meta-data Parsing|Spotify Content Meta-data Parsing]].
-Intelligently saves parsed to data to relevant table and records in [[Public Website/Talent & Content Management System#Catalog base|Catalog base]]
+Intelligently saves parsed to data to relevant table and records in [[Public Website/Talent and Content Management System#Catalog base|Catalog base]]
 
 #### User's Playlist Creation/Modification
 Connects to a Spotify Account to create/modify/unsubscribe user's playlist via [[Public Website/Monito.website Data Hub|Monito.website Data Hub]]. Useful for managing and easy updating of a multi-playlist network.

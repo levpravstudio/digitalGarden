@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/public-website/monito-website-data-hub/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+## Monito.website Data Hub
 A data hub for bridging the functions of [[Public Website/Talent and Content Management System|Talent and Content Management System]], such as
 - [[Public Website/Airtable Base Auto-Backup|Airtable Base Auto-Backup]]
 - [[Public Website/Spotify API Bridge#User's Playlist Creation Modification|Spotify User's Playlist Creation Modification]]

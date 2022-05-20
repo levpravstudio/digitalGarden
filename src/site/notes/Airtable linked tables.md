@@ -9,4 +9,4 @@ Artist
 			->Split Sheet for the Selected Tracks 
 				-> Person, one of the Authors of the Selected Track  
 illustrated on video below
-!!! VIDEO
+!!! VIDEO![[Catalog_ 🎙️Artist - Airtable.webm]]

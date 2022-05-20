@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/public-website/airtable-api-bridge/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+## Airtable API Bridge
 A set of webhooks for easier access to Airtable bases data via Airtable API from outside Airtable as well as from Airtable apps. Overcomes the built-in Airtable sync timing issue, works immediately while Airtable built-in sync runs only once every 5 minutes. Controls the Airtable API rate limits, creating queue in case of request exceeds the allowed rate.
 
 Can connect to multiple tables from multiple Airtable bases via [[Public Website/Monito.website Data Hub|Monito.website Data Hub]]

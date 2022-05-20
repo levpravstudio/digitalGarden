@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/public-website/spotify-api-bridge/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+## Spotify API Bridge
 Parses meta-data from Spotify API as well as provides access to some features unavailable in Spotify's Public API, such as [[Public Website/Spotify API Bridge#User's Playlist Creation Modification|User's Playlist Creation/Modification]] and [[Public Website/Spotify API Bridge#Playcount Statistics|Playcount Statistics]]. 
 Also includes a bottle-neck rate-limit control, useful for 
 massive [[Public Website/Spotify API Bridge#Spotify Content Meta-data Parsing|Spotify Content Meta-data Parsing]].

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/public-website/contract-constructor-and-generator/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
+## Contract Constructor and Generator
 Generates a filled-in document based on a User's [[Public Website/Contract Constructor and Generator#Template|Template]] and Contract Data from the database.
 Any simple or complicated request can be easily customized with [[Public Website/Contract Constructor and Generator#Data Scheme app|Data Scheme app]] to fetch all the required data from various dataset of the base.
 Resulting document in Google Docs' supported .DOCX format is uploaded to the Airtable base and/or sent to user's email.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/customizable-task-manager/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-## Customizable Task Manager with Data Sync and E-mail Notifications
+## Customizable Task Manager with Data Sync and Email Notifications
 A customizable Task Manager is an addition to Catalog and Finance base. It lets you organize the team and distribute tasks without using other services outside Airtable base. All the Catalog data, such as Artists, Albums, Tracks, Contracts, Booking and of course Team Members is available and auto-synced in the Task Managers. The Task Manager provided all basic features, such as task *status*, task *time tracking*, assignee *notification*, automatic *overdue notification*, task *grouping by projects* and more
 
 #### User Dashboard and Calendar

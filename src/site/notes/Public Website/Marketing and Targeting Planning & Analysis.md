@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/public-website/marketing-and-targeting-planning-and-analysis/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-##
+## Marketing and Targeting Planning & Analysis
 An all-in-on workspace to 
 - organize all Media Resources, 
 - keep media curator's Contacts
